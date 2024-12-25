@@ -19,3 +19,6 @@ C++ evolves constantly, bringing updates and new best practices. I prefer Moor's
 
 Feel free to contribute improvements or share your customized versions!
 
+
+## Looking Forward
+So you've studied the core containers of C++ and you want to know more? Amazing! Check this site out: https://hackingcpp.com/cpp/cheat_sheets.html
