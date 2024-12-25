@@ -13,7 +13,7 @@ C++ evolves constantly, bringing updates and new best practices. I prefer Moor's
 
 ## Preview
 
-![C++ Container Flowchart](cpp%20containers%20flowchart.drawio.png)
+![C++ Container Flowchart](img/cpp%20containers%20flowchart.drawio.jpg)
 
 ---
 
